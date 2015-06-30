@@ -1,0 +1,6 @@
+django
+#add your requirements here
+jinja2
+Coffin
+#pylint
+#django-registration

@@ -1,0 +1,12 @@
+/figs/*.pdf
+*.aux
+*.idx
+*.log
+*.toc
+*.ilg
+*.ind
+*.out
+/.auctex/
+/version.tex
+/code/PlusAssoc.class
+/code/CharAt.class
