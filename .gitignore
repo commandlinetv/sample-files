@@ -1,3 +1,4 @@
+.CFUserTextEncoding
 .Xauthority
 .bash_history
 .bash_logout
@@ -12,3 +13,10 @@
 .local
 .mplayer
 .ssh
+.viminfo
+Downloads/.localized
+Library
+Movies
+Music
+Pictures
+Public
