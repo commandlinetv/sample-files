@@ -24,10 +24,10 @@ Or you can
 [fetch the 'tarball' separately](https://github.com/commandlinetv/sample-files/tarball/master)
 using your browser, save it in `Downloads`, and then:
 
-    tar xvzf commandlinetv-sample-files-HASH.tar.gz
+    tar xvzf ~/Downloads/commandlinetv-sample-files-HASH.tar.gz
 
 where the `HASH` matches the file that was downloaded. This will create a new
-directory called `commandlinetv-sample-files-HASH` and all the stuff will be in
-there.
+directory (within current directory) called `commandlinetv-sample-files-HASH`
+and all the stuff will be in there.
 
 Have fun!
